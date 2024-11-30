@@ -1,0 +1,7 @@
+public class XORApp
+{  public static void main(String x[])
+   {   int  a=5,b=4,c;
+       c=a^b;
+      System.out.printf("C  = %d \n",c);	 
+   }
+}
